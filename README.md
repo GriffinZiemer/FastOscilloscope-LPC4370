@@ -1,1 +1,1 @@
-# FastOscilloscope-LCP4370
+# FastOscilloscope-LPC4370
