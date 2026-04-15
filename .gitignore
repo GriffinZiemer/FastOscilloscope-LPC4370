@@ -1,4 +1,4 @@
-# KiCad temporary and backup files
+# KiCad specific ignores
 *.bak
 *.s-bak
 *.lck
@@ -6,8 +6,8 @@
 _autosave-*
 *.cadstar
 *.tmp
-
-
-# Modern KiCad (v6+) specific noise
 fp-info-cache
+
+# Custom ignores for your project
 .history/
+MCU-backups/
