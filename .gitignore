@@ -7,5 +7,7 @@ _autosave-*
 *.cadstar
 *.tmp
 
+
 # Modern KiCad (v6+) specific noise
 fp-info-cache
+.history/
