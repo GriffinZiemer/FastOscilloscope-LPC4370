@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","Supplier Part"
+"U1,U2","2","OPA356AIDBVR","","","","JLCPCB_Custom_Parts:DBV5-OPAMP","https://www.ti.com/lit/gpn/opa356","296-32191-1-ND"
+"R5,R6","2","100","","","","Resistor_SMD:R_0402_1005Metric","","311-100LRCT-ND"
+"R2,R4","2","1M","","","","Resistor_SMD:R_0402_1005Metric","","311-1.00MLRCT-ND"
+"R1,R3","2","1k","","","","Resistor_SMD:R_0402_1005Metric","","541-2888-1-ND"
+"D1,D2","2","BAV99","","","","JLCPCB_Custom_Parts:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR-ESD","https://item.szlcsc.com/datasheet/BAV99%252C215/2877.html","4878-BAV99CT-ND"
+"C3,C4","2","1nF","","","","Capacitor_SMD:C_0402_1005Metric","","2679-AGC0402X7R500-102KNP-CT-ND"
+"C1,C2","2","0.1uF","","","","Capacitor_SMD:C_0402_1005Metric","","2679-AGC0402X7R500-104KNP-CT-ND"
